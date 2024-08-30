@@ -1,1 +1,1 @@
-# Assignment2
+Hello All commands are running properly
